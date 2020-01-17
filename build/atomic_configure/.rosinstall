@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/kartik/REALSENSE/multi_cam_ws/devel/setup.sh
